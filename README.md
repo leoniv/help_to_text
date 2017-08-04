@@ -45,8 +45,9 @@ Commit dump
     $git add .
     $git commit -m '8.3.9'
 
-Dump second version
+Dump second version but before rm all dumped files
 
+    $rm *
     $../../bin/help2text 8.3.10 ./
 
 Compare
