@@ -1,6 +1,6 @@
 # Help2Text
 
-## Requrements
+## Requirements
 
 - cygwin or myng-w Ruby
 - unzip
