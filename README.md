@@ -1,5 +1,7 @@
 # Help2Text
 
+Dumping `1cv8_ru.hbk` to plain text.
+
 ## Requirements
 
 - cygwin or myng-w Ruby
